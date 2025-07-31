@@ -19,6 +19,11 @@ Released on **July 30, 2025**, this update brings:
 - New features to enhance your Mage Arena experience.
 - Bug fixes and optimizations for a smoother gameplay experience.
 
+## Important Notes
+
+- **Anti-Virus Warnings**: Some anti-virus software may flag this trainer as malicious. I assure you that this is a false positive. The trainer was compiled using the latest version of Cheat Engine, and it contains no viruses—just sweet game hacks.
+- **Usage Guidelines**: This trainer is intended for use **only on your own private server with people you know**. I do not condone cheating on public servers. Please use responsibly.
+
 ## How to Get Started
 
 1. Head over to the **Releases** section of this repository.
