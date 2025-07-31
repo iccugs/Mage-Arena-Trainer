@@ -42,6 +42,10 @@ Released on **July 30, 2025**, this update brings:
 
 This trainer was lovingly created by **Paradox.Actual**. If you enjoy using it, feel free to share your feedback and spread the word!
 
+## Learn to Make Game Hacks
+
+I learned everything I needed to know about pointer scanning and hacking Unity games by using the website **[GuidedHacking.com](https://guidedhacking.com)**. If you're interested in creating fun and easy game hacks like this, I highly recommend signing up for their website and exploring their tutorials.
+
 ---
 
 Get ready to experience Mage Arena like never before. Download the trainer now and let the magic begin!
