@@ -12,12 +12,14 @@ Crafted with care and precision by **Paradox.Actual**, this trainer is a standal
 - **Exciting Enhancements**: Unlock new possibilities and elevate your gameplay.
 - **Rare and Unique**: A one-of-a-kind trainer that you won't find anywhere else.
 
-## What's New in Version 0.7.4
+## What's New in Version 1.1
 
 Released on **July 30, 2025**, this update brings:
 - Improved performance and stability.
 - New features to enhance your Mage Arena experience.
 - Bug fixes and optimizations for a smoother gameplay experience.
+
+> **Note:** This trainer is at version **1.1** and is specifically designed for **Mage Arena version 0.7.4**.
 
 ## Screenshot
 
