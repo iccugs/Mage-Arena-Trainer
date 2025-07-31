@@ -32,7 +32,7 @@ Released on **July 30, 2025**, this update brings:
 ## How to Get Started
 
 1. Head over to the **Releases** section of this repository.
-2. Download the latest version (v0.7.4) of the standalone trainer.
+2. Download the latest version (v1.1) of the standalone trainer for Mage Arena version 0.7.4.
 3. Run the trainer and dive into the magical world of Mage Arena with a new edge.
 
 ## Credits
