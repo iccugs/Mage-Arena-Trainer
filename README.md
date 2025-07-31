@@ -30,6 +30,7 @@ Released on **July 30, 2025**, this update brings:
 - **Anti-Virus Warnings**: Some anti-virus software may flag this trainer as malicious. I assure you that this is a false positive. The trainer was compiled using the latest version of Cheat Engine, and it contains no viruses—just sweet game hacks.
 - **Usage Guidelines**: This trainer is intended for use **only on your own private server with people you know**. I do not condone cheating on public servers. Please use responsibly.
 - **Pointer Accuracy**: While the pointers and offsets used for health and stamina are correct about 90% of the time, you might need to restart the game for the correct pointers to populate the cheats. I will do more testing to find pointers that are accurate 99-100% of the time and will release an update when I do.
+- **Game Requirements**: Ensure that the game is open and you are already in a game session before enabling features like God Mode.
 
 ## How to Get Started
 
