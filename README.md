@@ -2,6 +2,10 @@
 
 Welcome to the **Mage-Arena-Trainer**, your ultimate companion for the fantastic game **Mage Arena**! This trainer is designed to enhance your gameplay experience, offering new and exciting ways to enjoy the game like never before.
 
+## Credits
+
+This project was built using tutorials and code examples from GuidedHacking.com. All credit for the original memory manipulation, process injection, and core trainer functionality goes to the GuidedHacking community and their educational resources. This project simply builds upon their foundational work and adapts it for Mage Arena.
+
 ## Learn to Make Game Hacks
 
 I learned everything I needed to know about pointer scanning and hacking Unity games by using the website **[GuidedHacking.com](https://guidedhacking.com)**. If you're interested in creating fun and easy game hacks like this, I highly recommend signing up for their website and exploring their tutorials.
@@ -50,7 +54,7 @@ It is also possible to find the offending method responsible for taking damage w
 2. Download the latest version (v1.1) of the standalone trainer for Mage Arena version 0.7.4.
 3. Run the trainer and dive into the magical world of Mage Arena with a new edge.
 
-## Credits
+## Additional Credits
 
 This trainer was lovingly created by **Paradox.Actual**. If you enjoy using it, feel free to share your feedback and spread the word!
 
